@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "첫 사랑니 Rum Pum Pum Pum",
+  "base_artist": "f(x)",
+  "createdAt": "2026-02-12T16:50:31.706672Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/01_첫_사랑니_(Rum_Pum_Pum_Pum)_f(x).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_첫_사랑니_(Rum_Pum_Pum_Pum)_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "에프엑스(f(x))",
+      "has_synced": true,
+      "path": "select/03_첫_사랑니_(Rum_Pum_Pum_Pum)_에프엑스(f(x)).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "첫 사랑니 Rum Pum Pum Pum",
+      "artist": "F(x)",
+      "has_synced": true,
+      "path": "select/04_첫_사랑니_Rum_Pum_Pum_Pum_F(x).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Rum Pum Pum Pum 첫 사랑니",
+      "artist": "K-Pop Nation",
+      "has_synced": false,
+      "path": "select/05_Rum_Pum_Pum_Pum_첫_사랑니_K-Pop_Nation.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "에프엑스(f(x))",
+      "has_synced": true,
+      "path": "select/06_첫_사랑니_(Rum_Pum_Pum_Pum)_에프엑스(f(x)).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "첫 사랑니 (Rum Pum Pum Pum)",
+      "artist": "f(x)",
+      "has_synced": false,
+      "path": "select/pl_01_첫_사랑니_(Rum_Pum_Pum_Pum)_f(x).txt"
+    }
+  ]
+}
